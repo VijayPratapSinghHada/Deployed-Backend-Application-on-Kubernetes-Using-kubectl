@@ -1,0 +1,1 @@
+eksctl create iamidentitymapping --cluster nextwork-eks-cluster --arn [USER_ARN] --group system:masters --username admin --region [YOUR-REGION]
